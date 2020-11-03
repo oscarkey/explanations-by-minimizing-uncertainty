@@ -1,0 +1,63 @@
+ignore_columns:id,
+range radius_mean:6.98,28.1
+range texture_mean:9.71,39.3
+range perimeter_mean:43.8,189
+range area_mean:144,2501
+range smoothness_mean:0.05,0.16
+range compactness_mean:0.02,0.35
+range concavity_mean:0,0.43
+range concave points_mean:0,0.2
+range diagnosis:0,1
+range symmetry_mean:0.11,0.3
+range fractal_dimension_mean:0.05,0.1
+range radius_worst:7.93,36
+range texture_worst:12,49.5
+range perimeter_worst:50.4,251
+range area_worst:185, 4254
+range smoothness_worst:0.07,0.22
+range compactness_worst:0.03,1.06
+range concavity_worst: 0.00,1.25
+range concave points_worst:0,0.29
+range symmetry_worst:0.16,0.66
+range fractal_dimension_worst:0.06,0.21
+range radius_se:0.11,2.87
+range texture_se:0.36,4.88
+range perimeter_se:0.76,22
+range area_se:6.8,542  
+range smoothness_se:0,0.03 
+range compactness_se:0,0.14
+range concavity_se:0,0.4
+range concave points_se:0,0.05
+range symmetry_se:0.01,0.08
+range fractal_dimension_se:0,0.03
+perturbation radius_mean:1.0
+perturbation texture_mean:1.0
+perturbation perimeter_mean:5.0
+perturbation area_mean:10.0
+perturbation smoothness_mean:0.005
+perturbation compactness_mean:0.01
+perturbation concavity_mean:0.01
+perturbation concave points_mean:0.005
+perturbation symmetry_mean:0.01
+perturbation fractal_dimension_mean:0.001
+perturbation radius_worst:0.5
+perturbation texture_worst:1.0
+perturbation perimeter_worst:1.0
+perturbation area_worst:10
+perturbation smoothness_worst:0.01
+perturbation compactness_worst:0.05
+perturbation concavity_worst:0.05
+perturbation concave points_worst:0.01
+perturbation symmetry_worst:0.01
+perturbation fractal_dimension_worst:0.01
+perturbation radius_se:0.1
+perturbation texture_se:0.1
+perturbation perimeter_se:0.5
+perturbation area_se:1.0
+perturbation smoothness_se:0.005
+perturbation compactness_se:0.001
+perturbation concavity_se:0.01
+perturbation concave points_se:0.005
+perturbation symmetry_se:0.005
+perturbation fractal_dimension_se:0.001
+output_columns:diagnosis

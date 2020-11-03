@@ -1,0 +1,29 @@
+range CRIM:0.00632,88.9762
+range ZN:0.0,100.0
+range INDUS:0.46,27.74
+range CHAS:0.0,1.0
+range NOX:0.385,0.871
+range RM:3.561,8.78
+range AGE:2.9,100.0
+range DIS:1.1296,12.1265
+range RAD:1.0,24.0
+range TAX:187.0,711.0
+range PTRATIO:12.6,22.0
+range B:0.32,396.9
+range LSTAT:1.73,37.97
+range MEDV:5.0,50.0
+output_columns:MEDV
+perturbation CRIM:5
+perturbation ZN:5
+perturbation INDUS:1
+perturbation CHAS:1
+perturbation NOX:0.05
+perturbation RM:0.5
+perturbation AGE:5
+perturbation DIS:1
+perturbation RAD:1
+perturbation TAX:20
+perturbation PTRATIO:2
+perturbation B:20
+perturbation LSTAT:1
+ignore_columns:

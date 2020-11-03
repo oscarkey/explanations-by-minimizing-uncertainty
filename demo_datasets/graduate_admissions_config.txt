@@ -1,0 +1,17 @@
+ignore_columns:Serial No.,
+range GRE Score:0,350
+range TOEFL Score:0,120
+range University Rating:0,5
+range SOP:0,5
+range LOR:0,5
+range CGPA:0,10
+range Research:0,1
+range Chance of Admit:0,1
+perturbation GRE Score:10
+perturbation TOEFL Score:5
+perturbation University Rating:1
+perturbation SOP:1
+perturbation LOR:1
+perturbation CGPA:1
+perturbation Research:1
+output_columns:Chance of Admit

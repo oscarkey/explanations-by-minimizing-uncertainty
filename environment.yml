@@ -1,0 +1,24 @@
+name: uncertainty-ces
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - pytest
+  - mypy
+  - black
+  - pytorch=1.6
+  - torchvision
+  - scikit-learn
+  - pillow
+  - h5py
+  - matplotlib
+  - jupyter
+  - tqdm
+  - pip
+  - pip:
+      - ray==0.8.*
+      - alibi==0.5.*
+      - tensorflow==2.2
+      - toposort
+      - -e .
