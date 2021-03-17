@@ -3,9 +3,9 @@
 This repository contains the code for _Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties_;
 Lisa Schut*, Oscar Key*, Rory McGrath, Luca Costabello, Bogdan Sacaleanu, Medb Corcoran, Yarin Gal.
 
-The paper has been accepted at [AISTATS 2021](https://aistats.org/aistats2021/accepted.html).
+The paper has been [accepted at AISTATS 2021](https://aistats.org/aistats2021/accepted.html).
 
-It is also available on arXiv: [awaiting link]
+It is also available on arXiv: [arXiv:2103.08951](https://arxiv.org/abs/2103.08951)
 
 ## Environment set up
 Install Miniconda or Anaconda, then use the command:
