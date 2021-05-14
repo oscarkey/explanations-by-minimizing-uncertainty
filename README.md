@@ -46,7 +46,20 @@ To format the code: `black -l 99 **/*.py`
 ## Citation
 If the paper or code has been useful in your work, please reference it as follows:
 ```
-[awaiting publication of AISTATS proceeding]
+@InProceedings{pmlr-v130-schut21a,
+  title     = { Generating Interpretable Counterfactual Explanations By Implicit Minimisation of Epistemic and Aleatoric Uncertainties },
+  author    = {Schut, Lisa and Key, Oscar and Mc Grath, Rory and Costabello, Luca and Sacaleanu, Bogdan and Corcoran, Medb and Gal, Yarin},
+  booktitle = {Proceedings of The 24th International Conference on Artificial Intelligence and Statistics},
+  pages     = {1756--1764},
+  year      = {2021},
+  editor    = {Banerjee, Arindam and Fukumizu, Kenji},
+  volume    = {130},
+  series    = {Proceedings of Machine Learning Research},
+  month     = {13--15 Apr},
+  publisher = {PMLR},
+  pdf       = {http://proceedings.mlr.press/v130/schut21a/schut21a.pdf},
+  url       = {http://proceedings.mlr.press/v130/schut21a.html},
+}
 ```
 
 ## License
